@@ -16,12 +16,12 @@ const mainNavItems: NavItem[] = [
     },
     {
         title: 'Gerenciar Usuários',
-        href: '',
+        href: '/users',
         icon: UserCogIcon,
     },
     {
         title: 'Gerenciar Perfis',
-        href: '',
+        href: '/roles',
         icon: MonitorCog,
     },
 ];
